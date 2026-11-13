@@ -1,4 +1,4 @@
-# UW-Madison Seat Checker
+# UW–Madison Seat Checker
 
 A small, single-user script that checks UW-Madison course availability and sends an
 [ntfy](https://ntfy.sh/) notification when real seats become available.
