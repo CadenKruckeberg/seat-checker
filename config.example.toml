@@ -1,0 +1,20 @@
+term = "1274"
+state_file = "state.json"
+
+ntfy_server = "https://ntfy.sh"
+ntfy_topic = "replace-with-your-topic"
+ntfy_token_env = "NTFY_TOKEN"
+ntfy_priority = 4
+
+request_delay_seconds = 1.0
+timeout_seconds = 20
+
+[[courses]]
+label = "COMP SCI 542"
+subject_code = "266"
+course_id = "025893"
+
+[[courses]]
+label = "L I S 461"
+subject_code = "544"
+course_id = "025394"
